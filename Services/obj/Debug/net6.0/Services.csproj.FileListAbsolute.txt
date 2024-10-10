@@ -1,0 +1,17 @@
+D:\yazilim\dotnet\mvc\Store\Services\bin\Debug\net6.0\Services.deps.json
+D:\yazilim\dotnet\mvc\Store\Services\bin\Debug\net6.0\Services.dll
+D:\yazilim\dotnet\mvc\Store\Services\bin\Debug\net6.0\Services.pdb
+D:\yazilim\dotnet\mvc\Store\Services\bin\Debug\net6.0\Entities.dll
+D:\yazilim\dotnet\mvc\Store\Services\bin\Debug\net6.0\Repositories.dll
+D:\yazilim\dotnet\mvc\Store\Services\bin\Debug\net6.0\Entities.pdb
+D:\yazilim\dotnet\mvc\Store\Services\bin\Debug\net6.0\Repositories.pdb
+D:\yazilim\dotnet\mvc\Store\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+D:\yazilim\dotnet\mvc\Store\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazilim\dotnet\mvc\Store\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+D:\yazilim\dotnet\mvc\Store\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+D:\yazilim\dotnet\mvc\Store\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+D:\yazilim\dotnet\mvc\Store\Services\obj\Debug\net6.0\Services.csproj.Up2Date
+D:\yazilim\dotnet\mvc\Store\Services\obj\Debug\net6.0\Services.dll
+D:\yazilim\dotnet\mvc\Store\Services\obj\Debug\net6.0\refint\Services.dll
+D:\yazilim\dotnet\mvc\Store\Services\obj\Debug\net6.0\Services.pdb
+D:\yazilim\dotnet\mvc\Store\Services\obj\Debug\net6.0\ref\Services.dll
